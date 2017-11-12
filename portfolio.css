@@ -1,0 +1,36 @@
+body{
+	font-family: 'Lato', sans-serif;
+	 font-weight: 300px;
+	 color: #BCBBBB;
+}
+hr{
+	background-color:#BCBBBB;
+    color: #BCBBBB;
+    border: solid 1px #BCBBBB;
+    height: .4px;
+
+}
+h3{
+	font-weight: 500px;
+	color: #808080;
+}
+h2{
+	color: #D3D3D3;
+	font-weight: 40px;
+}
+.text-muted{
+
+}
+.text-thin{
+
+}
+.title{
+	font-size: 50px;
+
+}
+.text{
+	font-size: 20px;
+}
+.thick{
+	font-weight: 30px;
+}
